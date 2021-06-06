@@ -1,0 +1,6 @@
+co/com/retoautomation/runners/ConsultarProductos.java
+ co.com.retoautomation.runners.ConsultarProductos
+co/com/retoautomation/stepdefinitions/comunes/Setup.java
+ co.com.retoautomation.stepdefinitions.comunes.Setup
+co/com/retoautomation/stepdefinitions/ValidarContratoStepDefinitions.java
+ co.com.retoautomation.stepdefinitions.ValidarContratoStepDefinitions

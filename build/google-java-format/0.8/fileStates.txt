@@ -1,0 +1,5 @@
+src/main/java/co/com/retoautomation/tasks/SeleccionarOpcion.java,1623016512510011000,529,FORMATTED
+src/test/java/co/com/retoautomation/stepdefinitions/ValidarContratoStepDefinitions.java,1623016369746823000,712,FORMATTED
+src/test/java/co/com/retoautomation/stepdefinitions/comunes/Setup.java,1623011618583536000,1441,FORMATTED
+src/main/java/co/com/retoautomation/userinterfaces/SeleccionarOpcionesPage.java,1623016512518984000,359,FORMATTED
+src/test/java/co/com/retoautomation/runners/ConsultarProductos.java,1623011354452807000,413,FORMATTED
